@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  //--home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://media.discordapp.net/attachments/1100928928975167610/1100933094854361278/b2c707dbef13662daf6620c23c2f2295.jpg);
 
  --server-listing-width: 62px;
  
